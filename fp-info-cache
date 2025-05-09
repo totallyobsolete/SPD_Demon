@@ -1,4 +1,4 @@
-24500728709468106
+24505968983621927
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91259,12 +91259,33 @@ THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
 8
 8
 SPD_Demon
+JC
+
+
+0
+0
+0
+SPD_Demon
+JC_small
+
+
+0
+0
+0
+SPD_Demon
 Molex 0712510016 168-pin 3.3V SDRAM Socket
 4UCON 10156 Card edge socket with 80 contacts (40 each side), through-hole, http://www.4uconnector.com/online/object/4udrawing/10156.pdf
 4UCON 10156 Card edge socket with 80 contacts
 0
 168
 168
+SPD_Demon
+OSHW
+
+
+0
+0
+0
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
